@@ -1,3 +1,6 @@
 *.o
 zombie
 attack
+replace
+*test*
+*.replace

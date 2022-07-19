@@ -21,5 +21,6 @@ int	main(void)
 		club.setType("some other type of club");
 		jim.attack();
 	}
+	HumanA jimmy("Jimmy", 0);
 	return 0;
 }
